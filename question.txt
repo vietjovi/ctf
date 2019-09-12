@@ -1,0 +1,19 @@
+Your goal is to recognize a flaw in a particular implementation of a digital currency client, that utilizes CryptoNote key/transaction model, and use it to get the tracking key of the node running this client.
+Setup
+
+The node that you are targeting is misconfigured; it's error log is publicly accessible via a RPC endpoint. What is relevant for this challenge are log entries created by the function that checks every transaction that passes through the node.
+
+You construct and broadcast a series of invalid transactions. These transactions are recored in txs.json . Many other fields that would be present in a real transaction are omitted for brevity.
+
+Althought the broadcasted transactions are invalid, with this particular node you can see error messages mentioning these transactions appearing in the node's aforementioned error log. These log entries are recorded in err_log.json.
+
+Using this information, find the tracking key of the node owner. This tracking key is the flag for the challenge. The flag must be submitted in hex format.
+Technical details
+
+    Read section 4.3 of CryptoNote v2.0 whitepaper to understand how a node is supposed to process transactions To simplify the challenge a little, the destination key is P=rA and P'=aR. Then, the tracking key is not the pair (a, B), but just a (a single 160-bit hexadecimal number). B would be known to us anyway in a real-world scenario, and is irrelevant for this challenge, since it's not used in the key calculation.
+
+    The elliptic curve used by the digital currency in this challenge is brainpoolP160r1. It's a 160-bit curve, so a point on the curve is a pair of 160-bit numbers. A point on the curve is serialized as follows: 0xXXXXYYYY, where XXXX is a 160-bit hexadecimal number corresponding to the x-coordinate of the point and YYYY is another 160-bit number in hex corresponding to the y-coordinate of the point. Both coordinates are left-padded with zeros when needed, so that the resulting number of hexadecimal digits is always 40 for each coordinate. These two numbers are then concatenated together and prefixed with 0x. Thus the total length of a serialized ECC point is 82 characters.
+
+Appendix
+
+It's important to note that the node operator's funds are still safe since the spending key is not stored on the node or used for transaction scanning. But now you can set up your own tracking node and watch every transaction that is sent to the node operator, defeating the unlinkable payments model.
