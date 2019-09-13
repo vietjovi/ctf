@@ -1,0 +1,134 @@
+[
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0xC22BFF809BF5FC146D4AB3D971E1E3F7A079BEE4B03D4D33FDFC846DBDC4D881",
+        "err_msg":"Comparison is not defined between P=0xG0 (type TxDestKeyStr) and P_prime=0x898CB2616E46E8F01CB4C05732EB89D921543FE30000000000000000000000000000000000000000 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:05.160604"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0xCABDBF620B9A5989A238EF4235F756DDD77B5B1E3837E99DCF2EBB2B1CC4A458",
+        "err_msg":"Comparison is not defined between P=0xG1 (type TxDestKeyStr) and P_prime=0x7631DC05F1954DA902E29FC8E2E7EC21A80C5CA474657D752620FD5E46628039AF3409C6CB209C5F (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:05.365136"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0x8A0A62DBD8AC1A7334A2684E2076C6026637638F3872E287D7B3F3416C16BBCA",
+        "err_msg":"Comparison is not defined between P=0xG2 (type TxDestKeyStr) and P_prime=0x161BBF1226F95B8774E1A36DECC20D9774099DCB487A327204565B2B10410681AD0F81367A8B8C9F (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:05.568126"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0x6CCE4866D02DE75B5F95579EDEC4507DCC93E60D3810DFF5A5E061C071258B73",
+        "err_msg":"Comparison is not defined between P=0xG3 (type TxDestKeyStr) and P_prime=0xD229562860D0DA42A3F40825812D3DB380FD4787957860E7C2F662C359863D0531271938CDE721F1 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:05.770427"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0x3783434B717D8C34A76EF0909989B128D33004ED6650ED8EFD9EB19CDBF3BFB6",
+        "err_msg":"Comparison is not defined between P=0xG4 (type TxDestKeyStr) and P_prime=0x48441C6F9D744D72D872E0BE9BA2B1DDBEF12B2E34AE26E93DBBA1AD366DED0E664AFD7EB1E9562B (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:05.975065"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0x7FBFDABEECCCA2F7101C1F7EA25CCB25B13A50C0D189C83BB27F77E68F4179BB",
+        "err_msg":"Comparison is not defined between P=0xG5 (type TxDestKeyStr) and P_prime=0x547F2D44BF42E61371D1478E5FC8C76764E4504108979358FEF026174CED242226C4B19EBAF03EF7 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:06.175576"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0xF35169E6D60E157D97C3837F1851953CDAB87E4E5A306D923EABE38E0D4756A3",
+        "err_msg":"Comparison is not defined between P=0xG6 (type TxDestKeyStr) and P_prime=0xE0061588ADAE4671E1D2C0B4A9E01340A3AD890801E048143B073AD21918EFDBB6ED525A6A3220BF (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:06.379099"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0x91E992F6402175B0AE8DB0FBCEBB0AA307A383BEEA91C68F2F98C4D7A6F882C4",
+        "err_msg":"Comparison is not defined between P=0xG7 (type TxDestKeyStr) and P_prime=0x50BC68926130E24542830B5A546C3F4690E370A3766BE509C344710FCB01A0F235EFEEBE464D93B5 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:06.583035"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0xC15F6871CA39862BED8A30682FB03325553A87F0B941E62534C40AFCA77D4954",
+        "err_msg":"Comparison is not defined between P=0xG8 (type TxDestKeyStr) and P_prime=0x8686A07F6544B384B3AAA0FDA2344D6F8078BA1EDB52576D511BCE22159E3B48521AA7D124C03E26 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:06.783297"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0x02478F904ADA1E6BE0EFFA6B992F663B023957A00B244FE0449A299792BFA52A",
+        "err_msg":"Comparison is not defined between P=0xG9 (type TxDestKeyStr) and P_prime=0x9598C16277BF6F9FD2AF1E1DFC3108AA4DBF35E0474D3D8170C6A2E7B3A6B7BAF1BC52EBAA2D90DB (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:06.983596"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0xDF352B1971549E14A896C6E5F205449530D6C1720CDDC7F2E1CF85AC1DD1B223",
+        "err_msg":"Comparison is not defined between P=0xGA (type TxDestKeyStr) and P_prime=0xC97396948AE636D0012246750AA64A264DA6ADFA76B015CBD383B8FB3A36D26E8C599C734EF5E3A0 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:07.184116"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0xE300058145A15FE29C262B8EC5121874A3E0F5E5D28CB5EB9ED5F69B09E01E21",
+        "err_msg":"Comparison is not defined between P=0xGB (type TxDestKeyStr) and P_prime=0x19526078F8E4C3C33BECC466E256AD3FE1A58C18803065B138B88E5FB6835051C0E4C06B1C500AA7 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:07.388198"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0xB9D9AF38706EC414594852D56D2A1831EC34BA89EFABD846E08CA19A3C4A50BE",
+        "err_msg":"Comparison is not defined between P=0xGC (type TxDestKeyStr) and P_prime=0xA2305767A4FD5A45D7520554C08F2F8AFFB0988C962CF4089B35767C7FF6D653FB080D8648F552F8 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:07.589747"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0x8E25C815BE7A5F17441419AD5A0833468DD1944C9643AEDCF5799F17DCF65D30",
+        "err_msg":"Comparison is not defined between P=0xGD (type TxDestKeyStr) and P_prime=0xE409901D98E3884B4E15C33982333A021124CD89025DC6EE4E99C1187BEB1F19E89397ED8D2845B0 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:07.793805"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0x6C4FF1C3BF01344EC2FBF64679F9883D124181CA0E2D6A7ED9C77663849C2DC8",
+        "err_msg":"Comparison is not defined between P=0xGE (type TxDestKeyStr) and P_prime=0x37B7F8658311F8A77C098AF6FCA4F111800CD8F5C21D090CBA9A7824889FC86B2691E7C22958CD32 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:07.997778"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0xA4A47EB7E9675D02FD37E39E7C2C7A68B5FBAD75CBD284822DA4A36568E8C02B",
+        "err_msg":"Comparison is not defined between P=0xGF (type TxDestKeyStr) and P_prime=0xC24F6A8D82D5D9C6CBC4D24F9DB28E06D7B73C19115DFF8D8547B4BE1EDA04D2BFF0C576F0A5E5C3 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:08.202323"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0xD1E70CA434264EAA3D01FD6F96E40977D89826E7EF28C6D3BFE8A8C49CC5DEBC",
+        "err_msg":"Comparison is not defined between P=0xH0 (type TxDestKeyStr) and P_prime=0xA0B31C3B2090D12DEAF87E65756DFB0850D6B60876E769561205B08CD5B67B1C2767326FEFDE6113 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:08.405679"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0x032D3DF7040DE4EBE556A49B6743CDBCB0FBC99B9192471ACA6986EE65CD0E9F",
+        "err_msg":"Comparison is not defined between P=0xH1 (type TxDestKeyStr) and P_prime=0xE375ED0442A3B99276F200977088032E504FD1077E24693F99EAC1F2082F5AC5AB337E99473CFB5D (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:08.605986"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0xE89B79960AF57B43F739C583E040E9CC2BE862B6737E78ECA1AB95B216F5489D",
+        "err_msg":"Comparison is not defined between P=0xH2 (type TxDestKeyStr) and P_prime=0xB4BE47D0A516012DD76963F5CB60CA674B368735D9889300540867A495C3CE8F772C46DB49E70086 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:08.809661"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0x9E26D654625F5F905478E34401AA0D0CF8F538C323DB2F01ACC9E2AEEB68CD4D",
+        "err_msg":"Comparison is not defined between P=0xH2 (type TxDestKeyStr) and P_prime=0x3A33790B193974A2D085EC52D6BC530CF63B20AB61120114A378C64934E8C8401FD5C539EE20AF68 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:09.010141"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0xF8FCA2FF2322755176E441EE602D630CCC8B803347846596ECCC6D97EC166201",
+        "err_msg":"Comparison is not defined between P=0xH3 (type TxDestKeyStr) and P_prime=0x85F567F520BE83C9E2F3432A331A0F9FA45E1C798707B631F09B36063401749AA5372899D1566218 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:09.213998"
+    },
+    {
+        "err_type":"UndefinedComparisonError",
+        "tx_hash":"0x3290119138743384082718F0DB0894816D2C84B1E453223660DA9E1B563F4D08",
+        "err_msg":"Comparison is not defined between P=0xH4 (type TxDestKeyStr) and P_prime=0xBA1D6A28988BBE44B78A9D800ADFA7CCA309A37B9430AFAA57D622D49189217F1D9780B336D84218 (type TxDestKey)",
+        "datetime":"2019-06-12T21:24:09.418762"
+    }
+]
